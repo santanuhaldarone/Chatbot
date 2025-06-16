@@ -35,3 +35,6 @@ if st.button("Get Answer"):
         st.write("**Answer:**", answer)
     else:
         st.write("Please enter both context and question.")
+
+st.markdown("---")
+st.caption("Made with ❤️ by Santanu")

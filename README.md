@@ -19,4 +19,4 @@ The app allows users to enter a custom context and ask questions based on that. 
 
 ---
 
-Built as a learning project using Hugging Face Transformers and Streamlit.
+Made with ❤️ by Santanu
