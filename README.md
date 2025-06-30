@@ -31,9 +31,6 @@ A basic Question Answering (QA) chatbot web app that lets you provide a custom c
 
 - 🤗 `deepset/roberta-base-squad2` — Pre-trained QA model from Hugging Face
 - 🔥 PyTorch backend
-
-## ❤️ Made with love by Santanu
-
 ---
 
 Made with ❤️ by Santanu
